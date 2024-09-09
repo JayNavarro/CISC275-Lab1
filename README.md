@@ -50,6 +50,9 @@ Edit for Lab Section 021L:
 -
 Hello this is my edit
 
+NEW edit for Lab section 022L:
+Hi I didn't see one for my lab
+
 Edit for Lab Section 030L:
 -
 This edit is for my lab!
